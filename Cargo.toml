@@ -1,0 +1,9 @@
+[package]
+name = "matrix-calc"
+version = "1.0.0"
+edition = "2021"
+license = "MIT"
+[[bin]]
+name = "matrix-calc"
+path = "src/main.rs"
+[dependencies]
